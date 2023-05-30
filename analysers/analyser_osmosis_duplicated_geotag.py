@@ -307,7 +307,7 @@ class Analyser_Osmosis_Duplicated_Geotag(Analyser_Osmosis):
         self.run(sql12, self.callback10)
 
         self.run(sql20)
-        self.run(sql21)
+        self.run(sql21) 
         self.run(sql22, self.callback20)
 
         self.run(sql30)
